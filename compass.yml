@@ -1,0 +1,17 @@
+name: GH_docs
+id: ari:cloud:compass:0f05c2fa-79c0-4884-ae91-ff2f68f28123:component/681ed19a-5d97-4bfe-b456-abe41c35ed26/9fa3dccc-733a-40a3-aa3e-60247b72cce1
+description: The open-source repo for docs.github.com
+configVersion: 1
+typeId: WEBSITE
+ownerId: ari:cloud:identity::team/0804f3a3-a876-407d-a73b-f748607a1423
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/sietec-enterprise/GH_docs
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
